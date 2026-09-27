@@ -1,3 +1,5 @@
+[▶ Try the interactive Figma prototype](https://www.figma.com/proto/CPQYJVAvylIAA8nG1nWXwM/Safety-and-Recovery-Center-%E2%80%93-Mobile-Wallet?node-id=1-2&t=X0bgDgiyAdiEbfcz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
 # After the Fraud Alert: Redesigning Safety and Recovery for Mobile Wallets
 
 A data-informed product case study using **84,619 CFPB consumer complaints**, Python narrative analysis, and SQL segmentation to identify mobile-wallet safety problems and design a unified post-incident recovery experience.
